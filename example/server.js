@@ -13,7 +13,8 @@ new WebpackDevServer(webpack(config), {
   publicPath: config.output.publicPath,
   hot: true,
   noInfo: true,
-  historyApiFallback: true
+  historyApiFallback: true,
+  headers: { "Access-Control-Allow-Origin": "*" }
 }).listen(9090, 'localhost', function (err, result) {
   if (err) {
     console.log(err);
