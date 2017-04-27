@@ -1,0 +1,26 @@
+{
+  "name": "react-emojiboard",
+  "version": "0.0.1",
+  "description": "Emoji picker that allows you to add emojis to input elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crowdriff/react-emojiboard.git"
+  },
+  "keywords": [
+    "react",
+    "emoji",
+    "keyboard",
+    "emoji",
+    "keyboard"
+  ],
+  "author": "CrowdRiff Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/crowdriff/react-emojiboard/issues"
+  },
+  "homepage": "https://github.com/crowdriff/react-emojiboard#readme"
+}
